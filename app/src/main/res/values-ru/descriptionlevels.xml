@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Какое число больше?</string>
+    <string name="leveltwo">Какая римская цифра больше?</string>
+    <string name="leveloneend">Поздравляем, уровень пройден!
+    </string>
+    <string name="leveltwoEnd">Поздравляем, уровень пройден!</string>
+    <string name="levelthree">Кто из животных быстрее?</string>
+    <string name="levelthreeEnd">Поздравляем, уровень пройден!</string>
+    <string name="levelfour">Выбери съедобное</string>
+    <string name="levelfoureEnd">Поздравляем, уровень пройден!</string>
+</resources>

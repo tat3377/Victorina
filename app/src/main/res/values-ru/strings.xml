@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Викторина</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="Level">Уровень:</string>
+    <string name="Level1">Уровень:1</string>
+    <string name="Level2">Уровень:2</string>
+    <string name="Level3">Уровень:3</string>
+    <string name="Level4">Уровень:4</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="level4">level4</string>
+
+</resources>
